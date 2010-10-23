@@ -1,0 +1,16 @@
+The page is intended to help you start the project.
+
+= Introduction =
+
+Please read the <a href="Installing Requisites">guide to installing Matlab</a>, before you install this program on your computer
+
+
+= Starting the Project =
+
+There are two ways to start the application:- 
+
+# Starting the application using Guide
+# Starting the application without Guide
+
+
+=1. Starting the application using Guide=

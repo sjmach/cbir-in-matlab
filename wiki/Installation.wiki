@@ -1,5 +1,6 @@
 #labels Phase-Deploy
 Installing the software
+
 Minimum system requirements
 
     * Intel® Pentium® 4, Intel Centrino®, Intel Core™ Duo (or compatible) processor . 

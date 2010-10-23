@@ -26,6 +26,5 @@ Uninstalling the software
 
    1. Before you uninstall Matlab , close all of you running applications and any browser windows. 
    2. Do the following: 
-
     * In Windows, open the Windows Control Panel and double-click Add or Remove Programs. 
     * Select the product that you want to uninstall, click Change/Remove, and then follow the on-screen instructions.

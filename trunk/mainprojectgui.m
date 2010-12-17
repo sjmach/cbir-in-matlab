@@ -1,6 +1,7 @@
 %TITLE: MAIN PROJECT GUI SOURCE FILE
 %AUTHOR: SUNDEEP JOSEPH MACHADO
 %DATE MODIFIED: DECEMBER 17 2010
+%USE: THE MAIN SCREEN OF THE FILE
 
 function varargout = mainprojectgui(varargin)
 % MAINPROJECTGUI M-file for mainprojectgui.fig
